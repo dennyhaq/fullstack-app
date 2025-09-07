@@ -1,7 +1,7 @@
 # Codeguide Starter Fullstack
 
 A modern web application starter template built with Next.js 15, featuring authentication, database integration, and dark mode support.
-dilanjutkan  belajar vibecode dengan [queencode] (https://chat.qwen.ai/) 
+dilanjutkan  belajar vibecode dengan [queencode] (https://chat.qwen.ai/) , selain itu bisa firebase studio atau gemini/open AI pro
 ## Tech Stack
 
 - **Framework:** [Next.js 15](https://nextjs.org/) (App Router with Turbopack)
